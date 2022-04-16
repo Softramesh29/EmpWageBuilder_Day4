@@ -1,6 +1,6 @@
 package com.bridgelabz.EmpWageBuilder_Day4;
 
-public class Empcheck {
+public class EmpcheckUC1 {
 	public static void main(String[] args) {
 		int is_full_time = 1;
 		double empcheck = Math.floor(Math.random() * 10) % 2;
